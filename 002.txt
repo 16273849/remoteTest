@@ -1,5 +1,7 @@
 This is 002.txt
 
+Changes to be added in branch in chapter 2.
+
 From its medieval origins to the digital era, 
 learn everything there is to know about the 
 ubiquitous lorem ipsum passage.
